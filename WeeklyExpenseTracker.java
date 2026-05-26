@@ -5,7 +5,7 @@ import javax.swing.*;
 // Main class for Weekly Expense Tracker
 public class WeeklyExpenseTracker extends JFrame {
 
-    // GUI Components
+    // GUI Components section
     JComboBox<String> dayBox, categoryBox;
     JTextField amountField;
     JTextArea descriptionArea, outputArea;
