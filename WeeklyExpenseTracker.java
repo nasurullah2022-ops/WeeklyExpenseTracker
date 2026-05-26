@@ -2,7 +2,7 @@ import java.awt.*;
 import java.util.ArrayList;
 import javax.swing.*;
 
-// Main class
+// Main class for Weekly Expense Tracker
 public class WeeklyExpenseTracker extends JFrame {
 
     // GUI Components
