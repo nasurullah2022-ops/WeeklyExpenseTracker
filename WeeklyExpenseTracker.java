@@ -248,7 +248,7 @@ public class WeeklyExpenseTracker extends JFrame {
         outputArea.setText(result.toString());
     }
 
-    // Main method
+    // Main method starts program
     public static void main(String[] args) {
 
         WeeklyExpenseTracker app = new WeeklyExpenseTracker();
